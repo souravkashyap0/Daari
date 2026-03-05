@@ -1,4 +1,5 @@
-# Daari 🛣️
+# Daari <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7503f948-ce54-4382-928f-9fcf4f15c35c" />
+
 > Just route it.
 
 Daari is a lightweight, plug-and-play JavaScript router 
