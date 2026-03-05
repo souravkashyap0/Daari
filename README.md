@@ -1,4 +1,5 @@
-# Daari <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7503f948-ce54-4382-928f-9fcf4f15c35c" />
+# Daari <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/013002a9-78b4-4d55-be00-e458147272a2" />
+
 
 > Just route it.
 
